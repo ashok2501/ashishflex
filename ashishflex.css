@@ -1,0 +1,35 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: black;
+    background-color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.flex
+{
+    display: flex;
+}
+.one h1
+{
+text-align: center;
+color: blueviolet;
+}
+.one p
+{
+    text-align: justify;
+}
+.clickme a
+{
+text-align: center;
+background: red;
+border-radius: 5px;
+text-decoration: none;
+padding: 10px 10px;
+
+}
+.clickme
+{
+    margin top: 50px;
+}
